@@ -7,7 +7,6 @@ use Illuminate\Support\ServiceProvider;
  * Provides additional Artisan commands for route filters
  *
  * @package Fisdap\Console\RouteFilters
- * @author  Ben Getsug <bgetsug@fisdap.net>
  */
 final class RouteFiltersConsoleServiceProvider extends ServiceProvider
 {

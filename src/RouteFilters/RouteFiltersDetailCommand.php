@@ -8,7 +8,6 @@ use Illuminate\Routing\Route;
  * Extension of Artisan 'routes' command, providing details on route filters
  *
  * @package Fisdap\Console\RouteFilters
- * @author  Ben Getsug <bgetsug@fisdap.net>
  */
 final class RouteFiltersDetailCommand extends RoutesCommand
 {

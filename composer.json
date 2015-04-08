@@ -4,12 +4,6 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Ben Getsug",
-      "email": "bgetsug@fisdap.net"
-    }
-  ],
   "autoload": {
     "psr-4": {
       "Fisdap\\Console\\": "src"

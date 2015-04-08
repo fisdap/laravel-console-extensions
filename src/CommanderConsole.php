@@ -9,7 +9,6 @@ use ReflectionClass;
  * Like CommanderTrait, this enables CommandBus functionality for Artisan/Symfony console commands
  *
  * @package Fisdap\Console
- * @author  Ben Getsug <bgetsug@fisdap.net>
  */
 trait CommanderConsole
 {

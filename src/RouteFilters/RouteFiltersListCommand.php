@@ -10,7 +10,6 @@ use Jeremeamia\SuperClosure\ClosureParser;
  * Extension of Artisan 'routes' command, providing list of all route filters
  *
  * @package Fisdap\Console\RouteFilters
- * @author  Ben Getsug <bgetsug@fisdap.net>
  */
 final class RouteFiltersListCommand extends RoutesCommand
 {
