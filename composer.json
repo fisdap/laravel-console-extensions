@@ -1,0 +1,28 @@
+{
+  "name": "fisdap/laravel-console-extensions",
+  "description": "A collection of Artisan commands and other console-related utilities",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ben Getsug",
+      "email": "bgetsug@fisdap.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Fisdap\\Console\\": "src"
+    }
+  },
+  "require": {
+    "illuminate/support": "~4|~5"
+  },
+  "require-dev": {
+    "jeremeamia/SuperClosure": "1.*",
+    "illuminate/routing": "~4"
+  },
+  "suggest": {
+    "laracasts/commander": "~1.0"
+  }
+}
